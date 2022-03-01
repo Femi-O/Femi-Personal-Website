@@ -1,0 +1,64 @@
+/* Here Are My Own CSS */
+.contact-text{
+  width: auto;
+  /* color: #478ac9; */
+  /* background-color: green; */
+  text-align: center;
+  /* border-radius: 30px; */
+  border-width: medium;;
+  /* border-color: #478ac9; */
+  line-height: 2;
+  padding: 0.5rem;
+  box-shadow: 0 0 0 2rem #419190;
+  border-radius: 12px;
+  margin: 2rem;
+  outline: 0.5rem solid #2c3e50;
+}
+.contact-text-head{
+  font-size: 25px;
+}
+.contact-text-i{
+  font-style: italic;
+}
+
+.fw-bolder{
+  background-color: #73f5c7;
+  border-radius: 12px;
+  /* padding: 1rem; */
+  text-align: center;
+}
+.form-case{
+  margin-top: 2rem;
+  padding-top: 2rem;
+}
+.form-item{
+  padding: 20px 50% 20px 20px;
+  font-size: x-large;
+}
+.submit-btn{
+  background-color: #419190;
+  border: #419190;
+  border-radius: 10px;
+  padding: 0.25rem 1rem;
+  text-align: center;
+}
+.submt{
+  background-color: #73f5c7;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+#submitButton{
+  background-color: #419190;
+  border: #419190;
+}
+#btn-back-to-top{
+  display: none;
+  background-color: #2c3e50;
+  border: #419190;
+  color: white;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  opacity: 0.2;
+}
